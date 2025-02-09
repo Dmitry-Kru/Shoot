@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15080eb7-bd33-4e82-aa02-4957913ab3ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img/oops1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/oops2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/oops3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/target.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="15080eb7-bd33-4e82-aa02-4957913ab3ac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +47,6 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/DuKe/Documents/GitHub/Shoot/img"
   }
 }]]></component>
